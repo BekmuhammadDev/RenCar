@@ -21,12 +21,8 @@ const accardion = () => {
 
                 <Flex alignItems='Center' marginBottom={{base:'16px',md:'32px'}} gap={2}>
                 <Radio value='1'>Pick - Up</Radio>
-                   {/* ----- */}
                 </Flex>
-
                 <Flex justify='space-between'>
-
-
                     <AccordionItem className='border-b-2 '>
                         <h1 className='pl-4 font-bold text-base'>Locations</h1>
                         <p>
